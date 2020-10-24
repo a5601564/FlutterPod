@@ -1,0 +1,6 @@
+framework module FlutterPod {
+  umbrella header "FlutterPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
